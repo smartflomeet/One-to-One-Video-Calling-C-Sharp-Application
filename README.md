@@ -24,7 +24,7 @@ When developing a Client Application with EnxRtc.js make sure to include the upd
 * Create your Application
 * Get your App ID and App Key
 * Clone this Repository `git clone https://github.com/smartflomeet/One-to-One-Video-Calling-C-Sharp-Application --recursive`
-### ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) Please note `--recursive` option. Repo should be cloned recursively to download `client` app. 
+### Please note `--recursive` option. Repo should be cloned recursively to download `client` app. 
 
 #### 2.1.2 SSL Certificates
 
